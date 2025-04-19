@@ -1,7 +1,7 @@
 # MentalHealthEvaluation
 How to develop a supervised classification model with public data.
 
-Inspired by my own project, which predicts depression risk given various features and ratings from surveys.
+Inspired by my own project, which predicts depression risk given various features and survey values.
 
 1. Data Collection
 2. Preprocessing & Feature Engineering
